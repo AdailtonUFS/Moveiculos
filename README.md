@@ -8,3 +8,6 @@ baseada no tipo de locação que o usuário desejar.
 
 O sistema foi pensado e desenvolvido inicialmente para estar nos computadores da recepção da Moveiculos, onde os funcionários
 da empresa realizariam os cadastros necessários para o aluguel entre outros.
+
+![Home Screen](/github/images/homescreen.png "Home Screen Image")
+
